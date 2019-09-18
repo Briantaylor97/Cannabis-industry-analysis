@@ -1,0 +1,4 @@
+config.py 
+newkeys.sh  
+**/.ipynb_checkpoints  
+**/__pycache__
